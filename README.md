@@ -1,6 +1,9 @@
 # svg2png
 Using chrome headless to convert svg to png
 
+[![GoDoc](https://godoc.org/github.com/canhlinh/svg2png?status.svg)](http://godoc.org/github.com/canhlinh/svg2png)
+
+
 ### Example:
 ```
 package main
