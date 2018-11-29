@@ -25,6 +25,7 @@ var (
 
 	// DefaultChromPaths posible chrome paths
 	DefaultChromPaths = []string{
+		"/usr/bin/chromium-browser",
 		"/usr/bin/chromium",
 		"/usr/bin/google-chrome-stable",
 		"/usr/bin/google-chrome",
